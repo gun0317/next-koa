@@ -1,0 +1,16 @@
+{
+  "verbose": true,
+  "watch": [
+    "./",
+    "server"
+  ],
+  "ignore": [
+    "__test__",
+    "components",
+    "pages"
+  ],
+  "execMap": {
+    "js": "babel-node"
+  },
+  "delay": 2.5
+}

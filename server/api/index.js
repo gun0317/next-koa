@@ -1,1 +1,0 @@
-// TODO: pages/api migration to here in order to use api routed by Koa.
